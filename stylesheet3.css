@@ -1,0 +1,56 @@
+/* General styles */
+body {
+    background-image: url(https://t3.ftcdn.net/jpg/02/20/90/06/360_F_220900600_ncRGLMAcUCeuC80mwcdsfogF7dwP8j9l.jpg);
+    background-position: top center;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 400;
+    padding-top: 20px;
+  }
+  
+  a {
+    color:white;
+   }
+    
+    /* Navigation bar styles */
+    #navbar {
+      background-color: #333;
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      padding: 20px;
+    }
+    
+    #navbar ul {
+      list-style-type: none;
+      margin: 0;
+      padding:0;
+    }
+    
+    #navbar li {
+      display: inline-block;
+    }
+    
+    #navbar a {
+      color: #fff;
+      text-decoration: none;
+      padding: 10px;
+    }
+    
+    #navbar a:hover {
+      background-color: #555;
+    }
+    
+    /* Additional styles */
+    h1 {
+      text-align: center;
+      margin-top: 50px;
+    }
+    
+    p {
+      margin: 20px;
+    }
+  
+    
